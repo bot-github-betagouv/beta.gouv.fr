@@ -1,13 +1,15 @@
 ---
 title: Éoliennes
-mission: Accélérer l’instruction relative au traitement de dossiers obstacles pour l’Armée de l’air
+mission: Accélérer l’instruction relative au traitement de dossiers obstacles
+  pour l’Armée de l’air, test de modification de fiche avec texte un peu long
+  pour voir ce qu'il se passe lors qu'on prolonge un peu
 owner: Ministère des Armées
 incubator: fabnumdef
+contact: romain.perroud@def.gouv.fr
+stats: false
 phases:
   - name: investigation
     start: 2020-04-01
-stats: false
-contact: romain.perroud@def.gouv.fr
 ---
 
 ## Contexte
