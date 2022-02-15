@@ -21,4 +21,4 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
-Développeur Fullstack
+Développeur Fullstack test
